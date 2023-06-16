@@ -6,7 +6,7 @@ bl_info = {
     "name": "Auto Save with Timer",
     "author": "Your Name",
     "version": (1, 0),
-    "blender": (2, 80, 0),
+    "blender": (3, 3, 1),
     "location": "Window",
     "description": "Auto save every 30 minutes without freezing the UI",
     "warning": "",
